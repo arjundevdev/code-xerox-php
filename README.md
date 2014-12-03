@@ -15,8 +15,7 @@ A) System Requirements:
 
 B) How to Install:
 
-1. Need to upload all the script file on the server via FTP or any other file uploader
-
+1. Need to upload all the script file on the server via FTP or any other file uploader.
    a) create_issue.php
 
    b) inc/OAuthApi.php
