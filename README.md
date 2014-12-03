@@ -1,4 +1,4 @@
-code-xerox-php
+code-xerox-php Readme
 ==============
 
 This code is used to post issue on github/bitbucket repository via php server. Here is the step to run this code with server requirements
@@ -17,7 +17,9 @@ B) How to Install:
 
 1. Need to upload all the script file on the server via FTP or any other file uploader.
    a) create_issue.php
+
    b) inc/OAuthApi.php
+
    c) inc/OAuthApiException.php
 
 
