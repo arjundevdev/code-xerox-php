@@ -17,5 +17,7 @@ B) How to Install:
    c) inc/OAuthApiException.php
 
 2. Need to trigger below given URL on browser to post repository issue on the github|bitbucket (Please add your github|bitbucket login credentials in place of username and passowrd)
+
    e.g. http://example.com/issue.php?user=username&pass=password&repo_url=http://github.com/arjundevdev/code-xerox-php&title=Issue Title&desc=Issue Desciption
+   
    e.g. http://example.com/issue.php?user=username&pass=password&repo_url=http://bitbucket.org/arjundevdev/code-xerox-php&title=Issue Title&desc=Issue Desciption
