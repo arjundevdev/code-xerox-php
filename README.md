@@ -16,11 +16,11 @@ A) System Requirements:
 B) How to Install:
 
 1. Need to upload all the script file on the server via FTP or any other file uploader.
-   a) create_issue.php
+   a) issue.php
 
-   b) inc/OAuthApi.php
+   b) inc/Auth.php
 
-   c) inc/OAuthApiException.php
+   c) inc/AuthException.php
 
 
 2. Need to trigger below given URL on browser to post repository issue on the github|bitbucket (Please add your github|bitbucket login credentials in place of username and passowrd)
